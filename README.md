@@ -26,4 +26,4 @@ Y = ~A & D
 - **Circuit B** used **minterms (SOP)**, simplifying to:  
 Y = A & B | B & ~D | ~C & ~D
 
-Both circuits matched their truth tables and were implemented properly. If I had the choice, I would often prefer minterms (SOP) because Verilog naturally expresses logic as ORs of ANDs, making it easier to code. However, maxterms (POS) are equally valid and can sometimes yield simpler hardware.  
+Both circuits matched their truth tables and were implemented properly. If I had the choice, I would often prefer minterms (SOP) because Verilog naturally expresses logic as ORs of ANDs, making it easier to code. However, maxterms (POS) are equally valid and can sometimes yield simpler hardware.
