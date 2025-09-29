@@ -5,6 +5,7 @@ as how to assemble your own Verilog modules. In addition, you’ve learned how
 the constraints file maps your inputs and outputs to real pins on the FPGA.
 
 summarry
+
 Through this lab, I learned how to derive logic expressions from truth tables and design circuits using minterms (SOP) and maxterms (POS).
 I also practiced verifying the resulting expressions and implementing them as code.
 In addition, I understood that the top-level file plays a central role in connecting modules together and linking them to the actual switches and LEDs on the FPGA.
